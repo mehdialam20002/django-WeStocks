@@ -1,0 +1,2 @@
+# django-WeStocks
+first project
